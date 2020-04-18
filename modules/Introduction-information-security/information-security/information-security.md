@@ -67,3 +67,20 @@ We will discuss about Ethical Hacking in `Web Applicationi Security`.
 
 	> **Explanation**
 	> Cyber laws not only consider gaining access to/corrupting devices/data owned by others as a crime, but also the act of attempting to gain access, whether you actually gain it or not, is considered a crime.
+    
+
+`Note`
+1. Kevin Mitnick is an American Security expert and called the “World’s most famous hacker”. He was arrested twice for cyber crime and wire fraud; an event quoted as the “manhunt”. Read more and find out such interesting facts about Kevin Mitnick.  
+  
+2. You may watch the following movies and TV series and learn a trick or two..  
+Hackers- 1995  
+Mr. Robot (TV series)  
+  
+3. Read about some other types of hackers, such as:  
+Script Kiddies  
+Elite Hackers  
+State Sponsored Hackers  
+Hacktivists  
+Phreaks  
+  
+4. Read more about Indian cyber laws and the Indian IT act.
