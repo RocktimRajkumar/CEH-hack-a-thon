@@ -11,7 +11,7 @@ Q. What is Ethical Hacking?
 When the hacker helps organisations or individuals with finding security loopholes and fixing them with their permission, it is referred to as ethical hacking. And this is legal because you take permission from the system owner and your motive is not to cause harm or steal, but to secure the system.  
   
 Q. What is considered a cyber crime according to Indian Judiciary system?  
-The Indian Cyber Laws and the Indian IT act classifies cybercrimes into 2 broad categories. An activity is considered a cyber crime if  
+The Indian Cyber Laws and the Indian IT act classifies cybercrimes into 2 broad categories. An activity is considered a cyber crime if.
 1. A computer is being used to attack other computers. For example: hacking, virus/worm attacks, DOS attacks, etc.  
 2. A computer is being used as a weapon to commit real world crimes. For example: cyber terrorism, IPR violations, credit card frauds, EFT frauds, pornography, etc.  
   
@@ -22,6 +22,7 @@ This basically means that unlawful use of any computer/device is considered a Cy
 
 Here we will talk about white hat hacker methodology to find loopholes in a system.
 Also some methodology of black hat hacker used and how a white hat hacker can tackle them.
+
 `Ethical Hacking ` can be used in :
 ![Ethical Hacking uses](./ethical-hacking-use.png)
 

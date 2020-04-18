@@ -1,7 +1,7 @@
 ## Table of Content
 ### Introduction to Information Security and Basics of Computer Networking
 
-- Introduction to Information Security
+- [Introduction to Information Security](./modules/Introduction-information-security/information-security/information-security.md)
 - Hacking Methodologies and Types of Security Testing
 - Computer Networking
 - IP Addressing and NAT
