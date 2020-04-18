@@ -4,13 +4,8 @@
 -  [Introduction to Information Security](./modules/Introduction-information-security/information-security/information-security.md)
 
 -  [Hacking Methodologies and Types of Security Testing](./modules/Introduction-information-security/hacking-methodology/hacking-methodology.md)
-- Computer Networking
-- IP Addressing and NAT
-- DNS- The Google Maps of the Internet
-- Ports and Services
-- Protocols, TCP/IP and OSI Model
-- Proxy and VPN
-- Module Test
+
+- [Module Test](./modules/Introduction-information-security/module-test.md)
 
 ### Information Gathering and Basics of Web Development:
 - Digital Footprints and Information Gathering
