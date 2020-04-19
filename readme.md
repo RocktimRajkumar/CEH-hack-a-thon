@@ -66,7 +66,7 @@
 - Module Test
 
 ### Documenting and Reporting Vulnerabilities
-- Documenting Stages of Vulnerabilities using Tools
+- [Documenting Stages of Vulnerabilities using Tools](./modules/Documenting-Reporting-Vulnerabilites/Documenting-Stages/Documenting-Stages.md)
 - VAPT Reports: Developer Report v/s Higher Management Report
 - Parts of a VAPT Report
 - Common Good Practices and Bad Practices
