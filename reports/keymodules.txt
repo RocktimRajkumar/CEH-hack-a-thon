@@ -1,0 +1,15 @@
+## Key Modules
+
+URL : http://13.127.188.98
+
+0. Home page
+1. Login (Customer,Seller and Admin)
+2. Signup
+3. Forgot Password
+4. Product listing
+5. Product Search
+6. Blog
+7. Forum
+8. My Cart
+9. My Profile
+10. My Orders
