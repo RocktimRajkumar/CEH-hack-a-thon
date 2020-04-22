@@ -76,6 +76,10 @@ So what content should be on the `POC`.
 	- Sublime Text
 	- Notepad ++
 
+
+### Folder Structure
+ ![folder-structure](./folder-structure.gif)
+
 ### Common Tips for POC
 **Some common tips for taking a PoC:**
 
@@ -120,3 +124,4 @@ So what content should be on the `POC`.
 	- [x] All of the above
 	> **Explanation:**
 	> When generating a PoC there are many important things to consider, like taking relevant screenshots with only the required region, making mute videos and using text editors to type instructions and writing down every step of your process in your text editor- be it information gathering and information you found, vulnerabilities, interesting blogs/links that you read to find, test and exploit vulnerabilities, links to automated scripts/exploits you find online, data you find after exploitation, everything!
+    
