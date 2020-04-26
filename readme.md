@@ -26,10 +26,10 @@
 - Authentication Bypass using SQL Injection
 - GET based SQL Injection- Part 1
 - GET based SQL Injection- Part 2
-- POST based SQL Injection- Part 1
+- [POST based SQL Injection- Part 1](modules/Introduction-VAPT-OWASP-SQLInjection/POST-Based-SQL-Injection-Part-1/post-based-sql-injection-part-1.md)
 - POST based SQL Injection- Part 2
-- Advanced SQL Injections
-- Automating SQL Injections- SQL Map
+- [Advanced SQL Injections](modules/Introduction-VAPT-OWASP-SQLInjection/Advanced-SQL-Injections/advance-sql-injection.md)
+- [Automating SQL Injections- SQL Map](modules/Introduction-VAPT-OWASP-SQLInjection/Automatic-SQL-Injection-SQLMap/automatic-sql-injection-sqlmap.md)
 - Module Test
 
 ### Advanced Web Application Attacks
@@ -67,7 +67,8 @@
 
 ### Documenting and Reporting Vulnerabilities
 - [Documenting Stages of Vulnerabilities using Tools](./modules/Documenting-Reporting-Vulnerabilites/Documenting-Stages/Documenting-Stages.md)
-- VAPT Reports: Developer Report v/s Higher Management Report
-- Parts of a VAPT Report
-- Common Good Practices and Bad Practices
+- [VAPT Reports: Developer Report v/s Higher Management Report](./modules/Documenting-Reporting-Vulnerabilites/VAPT-report/VAPT-report.md)
+- [Concept of Code Security](./modules/Documenting-Reporting-Vulnerabilites/Concept-Code-Security/concept-code-security.md)
+- [Parts of a VAPT Report](./modules/Documenting-Reporting-Vulnerabilites/Parts-VAPT-report/Parts-VAPT-report.md)
+- [Common Good Practices and Bad Practices](./modules/Documenting-Reporting-Vulnerabilites/Common-good-bad-practices/common-good-bad-practices.md)
 - Module Test
