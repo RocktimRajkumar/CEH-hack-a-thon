@@ -1,0 +1,6 @@
+Change the email address.
+Url : http://13.233.207.87/forum/index.php?u=/user/register
+Category: moderate
+1. Fill the registration form with valid input
+2. Click on register and intercept the request on burp suite
+3. Change the email address to invalid one and submit request.

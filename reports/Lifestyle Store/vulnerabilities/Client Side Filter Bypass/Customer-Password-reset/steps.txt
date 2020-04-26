@@ -1,4 +1,5 @@
 url: http://13.233.207.87/reset_password/customer.php
+category: critical
 1. Provide a already exists username and click on reset Reset Password.
 2. Click on send and intercept the request and change the email-id.
 3. Click on reset link and changed the password.
