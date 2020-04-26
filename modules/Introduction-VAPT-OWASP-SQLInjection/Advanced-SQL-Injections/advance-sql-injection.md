@@ -6,7 +6,9 @@ So far, we have learnt 3 types of SQL Injections:
 
 Practicing these SQL Injection methods are good to get you started. But there are other SQL Injection methods that you should know of. So we will briefly explain 3 more SQL Injection methods which you may encounter while researching or practicing.
 
-`Error Based SQL Injections:`
+<hr/>
+
+**`Error Based SQL Injections:`**
 
 Sometimes, we cannot exploit SQL Injection vulnerabilities simply by using UNION command. This may be because of some security checks in place or because of the complexity of the code. So to perform error based SQL injections, we make websites to throw SQL errors through which we can extract critical information. Now, different database servers employs different approach of performing error based SQL injections as the errors they throw are different in nature.
 
@@ -25,7 +27,9 @@ So, our motive is to perform SQL injection. This means, instead of using convert
 
 Now, if a website throws a message that shows SQL errors, this means we can definitely perform SQL injection here. Using SQL injection, we can easily retrieve the name of the database. And once the database name is known we can easily fetch the names of the tables, columns and finally the data too. These SQL injections are referred to as Error based SQL injection, where we perform SQL injections when a web application throws an SQL error.
 
-`Boolean Based Blind Injections:`
+<hr/>
+
+**`Boolean Based Blind Injections:`**
 
 To understand the injection, let’s fragment it as Boolean + Blind Injections.
 So, Boolean in terms of programming simply means True or False. This means, while performing these injections, we might be asking server to respond us as either true or false.
@@ -53,7 +57,9 @@ Select name from students where id=121 AND (get_first_character_of(password))=�
 
 Look carefully, this time we are asking server to tell us the first character as ‘true’ or ‘false’. If the output shows the student name, this means the  password starts from ‘a’ and we can proceed further in a similar way to fetch the complete password and if there is no output, it means that the password must start with some other letter. This is how, Boolean based Blind Injections are performed.
 
-`Time Based Blind Injections:`
+<hr/>
+
+**`Time Based Blind Injections:`**
 
 These injections are used in those cases where we fail to extract data either by using UNION or ERROR based SQL injections and can neither ask a website questions as True or False. So, in order to extract critical information, we tamper with the server response time.
 Whenever a request is made to the server, it takes some time to fetch the information and deliver it to us, this is called as response time. Now, if we tamper with this response time, we can extract some crucial information.
