@@ -1,0 +1,4 @@
+1. Capturing the http-request using burp suite by passing parameter "roc" i.e "/search/search.php?q=roc" and saving it to a file called search.txt
+2. Checking for vulnerabilities in `sqlmap` tool by passing the file "search.txt" 
+3. Exploiting the website by passing "/search/search.php?q=plain' or 1=1--+"
+4. Using sqlmap switches attacker can get information of database,tables and user info

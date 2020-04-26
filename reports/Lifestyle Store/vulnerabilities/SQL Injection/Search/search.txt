@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE items [
+<!ELEMENT items (item*)>
+<!ATTLIST items burpVersion CDATA "">
+<!ATTLIST items exportTime CDATA "">
+<!ELEMENT item (time, url, host, port, protocol, method, path, extension, request, status, responselength, mimetype, response, comment)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT host (#PCDATA)>
+<!ATTLIST host ip CDATA "">
+<!ELEMENT port (#PCDATA)>
+<!ELEMENT protocol (#PCDATA)>
+<!ELEMENT method (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT request (#PCDATA)>
+<!ATTLIST request base64 (true|false) "false">
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT responselength (#PCDATA)>
+<!ELEMENT mimetype (#PCDATA)>
+<!ELEMENT response (#PCDATA)>
+<!ATTLIST response base64 (true|false) "false">
+<!ELEMENT comment (#PCDATA)>
+]>
+<items burpVersion="2020.2.1" exportTime="Sun Apr 26 10:51:28 IST 2020">
+  <item>
+    <time>Sun Apr 26 10:51:11 IST 2020</time>
+    <url><![CDATA[http://13.233.207.87/search/search.php?q=roc]]></url>
+    <host ip="13.233.207.87">13.233.207.87</host>
+    <port>80</port>
+    <protocol>http</protocol>
+    <method><![CDATA[GET]]></method>
+    <path><![CDATA[/search/search.php?q=roc]]></path>
+    <extension>php</extension>
+    <request base64="true"><![CDATA[R0VUIC9zZWFyY2gvc2VhcmNoLnBocD9xPXJvYyBIVFRQLzEuMQ0KSG9zdDogMTMuMjMzLjIwNy44Nw0KVXNlci1BZ2VudDogTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6NzUuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC83NS4wDQpBY2NlcHQ6IHRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsKi8qO3E9MC44DQpBY2NlcHQtTGFuZ3VhZ2U6IGVuLVVTLGVuO3E9MC41DQpBY2NlcHQtRW5jb2Rpbmc6IGd6aXAsIGRlZmxhdGUNCkNvbm5lY3Rpb246IGNsb3NlDQpSZWZlcmVyOiBodHRwOi8vMTMuMjMzLjIwNy44Ny9wcm9kdWN0cy5waHANCkNvb2tpZToga2V5PUE1NkZDMzk2LTNENTktMzMwQi1DRkM1LTIxMURGQTkyQUE5NjsgUEhQU0VTU0lEPXZrOWFtcDM1ZnM4NTUxZTFlb3BoNGtwZmEzOyBYLVhTUkYtVE9LRU49NGM0YzNmMWFiYzVmNWFhM2JmMDM5MTg1MDliMjlhMWUyMDhiZGJjNDg4YmU4OWJlZGU4ODIzYjc5NDRkM2ZkYw0KVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0czogMQ0KDQo=]]></request>
+    <status></status>
+    <responselength></responselength>
+    <mimetype></mimetype>
+    <response base64="true"></response>
+    <comment></comment>
+  </item>
+</items>

