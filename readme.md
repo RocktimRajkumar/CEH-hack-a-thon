@@ -37,7 +37,7 @@
 - Bypassing Client Side Filters using Burp
 - Suite
 - IDOR and Rate-limiting issues
-- Arbitrary File Upload Vulnerabilities
+- [Arbitrary File Upload Vulnerabilities](./modules/Advance-Web-Application-Attacks/Arbitary-FileUpload-Vulnerabilities/arbitary-file-upload-vulnerabilities.md)
 - Module Test
 
 ### Client Side Attacks

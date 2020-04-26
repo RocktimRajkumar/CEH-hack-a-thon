@@ -1,0 +1,6 @@
+url: http://13.233.207.87/wondercms/
+category: critical
+
+1. Click on blog option and login to admin panel using password "admin"
+2. Go to setting and click on file upload option
+3. Upload a php file or b374k.mini shell file

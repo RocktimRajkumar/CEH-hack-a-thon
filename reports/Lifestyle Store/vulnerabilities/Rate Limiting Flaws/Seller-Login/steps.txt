@@ -1,0 +1,7 @@
+Url: http://13.233.207.87/login/seller.php
+Category: Severe
+
+1. Navigate to the url http://13.233.207.87/login/seller.php
+2. Click on login
+3. Intercept the request using burpsuite and send the request to intruder.
+4. Try to Login using all possible username and password
