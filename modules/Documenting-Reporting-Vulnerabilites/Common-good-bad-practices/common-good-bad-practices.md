@@ -38,4 +38,4 @@ But be careful, do not use these tools in an unethical manner.
 
 Happy Exploring!
 
-<a href="./Student_Tool_kit.xlsx" download="">Download tool kit</a>
+<a href="./Student_Tool_Kit.xlsx" download="">Download tool kit</a>
