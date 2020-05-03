@@ -1,0 +1,6 @@
+url: http://35.154.249.93/profile/16/edit/
+category: critical
+
+1. Login with the customer username and password
+2. Change the url to "http://35.154.249.93/admin31/dashboard.php"
+3. No we can access the admin dashboard page.
