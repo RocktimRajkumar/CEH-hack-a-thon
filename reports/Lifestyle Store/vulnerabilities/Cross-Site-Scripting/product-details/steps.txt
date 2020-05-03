@@ -1,5 +1,5 @@
 url: http://35.154.249.93/products/details.php?p_id=34
-category: critical
+category: Severe
 
 1. Login with the username and password
 2. Click on any product from product.php page

@@ -1,5 +1,5 @@
 url: http://35.154.249.93/wondercms/
-category: critical
+category: Severe
 
 1. Go to blog section
 2. Login to admin by providing password as admin.

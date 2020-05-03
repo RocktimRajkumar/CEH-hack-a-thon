@@ -1,5 +1,5 @@
 url: http://35.154.249.93/profile/16/edit/
-category: critical
+category: Severe
 
 1. Login with the username and password
 2. Navigate to profile section and click on edit profile.
