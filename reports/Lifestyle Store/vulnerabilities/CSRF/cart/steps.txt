@@ -1,0 +1,8 @@
+url: http://35.154.249.93/cart/cart.php
+category: Severe
+
+1. Login with the customer username and password
+2. Navigate to cart section and add some item to cart
+2. Click on confirm order and intercept the request on burp suite
+3. Send the request to repeater and change the reference address and try to submit, if it submitted successfully.
+4. Abort the request and run the html file and click on submit
