@@ -1,0 +1,7 @@
+url: http://35.154.249.93/products/details.php?p_id=34
+category: critical
+
+1. Login with the username and password
+2. Click on any product from product.php page
+3. In the review section type "<script>alert(1)</script>" and post it.
+4. On submit successfully a alert will popup.

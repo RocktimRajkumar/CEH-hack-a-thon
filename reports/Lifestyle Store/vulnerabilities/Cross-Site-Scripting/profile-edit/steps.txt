@@ -1,0 +1,7 @@
+url: http://35.154.249.93/profile/16/edit/
+category: critical
+
+1. Login with the username and password
+2. Navigate to profile section and click on edit profile.
+3. Update address field with "<scrip>alert(1)</script>" payload
+4. Go to profile section to see the XSS vulnerability.
