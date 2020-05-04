@@ -1,0 +1,10 @@
+url: http://35.154.147.149/login/seller.php
+category: Severe
+
+1. Provide a dummy username and password
+2. Click on Login and intercept the request in burpsuite
+3. Send the request to intruder
+4. Add the payload marker on username and password and select attack type as 'Cluster bomb'
+5. Go to payloads and select payload type as 'simple list'
+6. Load the 'uniqpass-v16-passwords.txt' dictionary on both the payloads
+7. Start the attack
