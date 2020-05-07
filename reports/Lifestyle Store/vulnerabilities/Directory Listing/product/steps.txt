@@ -1,0 +1,6 @@
+URL: http://15.206.67.102/static/images/
+category: Moderate
+
+1. Go to the product page and click on any item.
+2. Right-click on the image and open it on a new tab.
+3. Edit the URL to this "http://15.206.67.102/static/images/" you can view all the files
