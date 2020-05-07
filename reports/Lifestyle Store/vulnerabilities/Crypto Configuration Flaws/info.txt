@@ -1,0 +1,4 @@
+URL: *
+category: Severe
+
+All the webpages use 'http' and not 'https' which is far less secure and not encrypted.
