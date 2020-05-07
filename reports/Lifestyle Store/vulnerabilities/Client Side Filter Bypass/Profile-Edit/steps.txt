@@ -1,6 +1,6 @@
 Change the phone number.
 Url : http://13.233.207.87/profile/17/edit/
 Category: Low
-1. Trying to edit the phone number to invalid one, like making the phone number from 10 digit to 12 digit, an error shows "Please specify a valid phone number"
-2. Given a valid phone number and intercept using burp suite and make the number from 10 digit to 12 digit
+1. Trying to edit the phone number to invalid one, like making the phone number from 10 digits to 12 digits, an error shows "Please specify a valid phone number"
+2. Given a valid phone number and intercept using burp suite and make the number from 10 digits to 12 digit
 3. Forward the intercept and it's been successfully accepted.

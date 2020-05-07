@@ -1,7 +1,7 @@
-url: http://35.154.249.93/profile/16/edit/
+URL: http://35.154.249.93/profile/16/edit/
 category: Severe
 
 1. Login with the username and password
-2. Navigate to profile section and click on edit profile.
+2. Navigate to the profile section and click on the edit profile.
 3. Update address field with "<scrip>alert(1)</script>" payload
-4. Go to profile section to see the XSS vulnerability.
+4. Go to the profile section to see the XSS vulnerability.

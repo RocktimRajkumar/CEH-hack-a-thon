@@ -1,8 +1,8 @@
-url: http://35.154.249.93/profile/change_password.php
+URL: http://35.154.249.93/profile/change_password.php
 category: Severe
 
 1. Login with the customer username and password
-2. Navigate to profile section
+2. Navigate to the profile section
 2. Click on change password and intercept the request on burp suite
-3. Send the request to repeater and change the reference address and try to submit, if it submitted successfully.
-4. Abort the request and run the html file and click on submit
+3. Send the request to the repeater and change the reference address and try to submit, if it submitted successfully.
+4. Abort the request and run the HTML file and click on submit

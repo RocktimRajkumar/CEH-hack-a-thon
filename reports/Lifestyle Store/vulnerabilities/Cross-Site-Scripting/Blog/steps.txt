@@ -1,7 +1,7 @@
-url: http://35.154.249.93/wondercms/
+URL: http://35.154.249.93/wondercms/
 category: Severe
 
-1. Go to blog section
-2. Login to admin by providing password as admin.
+1. Go to the blog section
+2. Login to admin by providing a password as admin.
 3. Click on about your website section and type "<script>alert(1)</script"
-4. On successfully change we can see a alert as popup
+4. On successfully change we can see an alert as a popup

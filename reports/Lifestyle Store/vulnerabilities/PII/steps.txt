@@ -1,5 +1,0 @@
-url: http://15.206.67.102/products/details.php?p_id=28
-category: Moderate
-
-1. Go to product page and click on any product
-2. Click on seller info option, we get the details of the seller, even those which are not required like "pan card". This is a PII leakage and which can lead to social engineering attacks on the seller and can indirectly harm the business.

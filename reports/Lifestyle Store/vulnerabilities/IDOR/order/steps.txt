@@ -2,4 +2,4 @@ Url: http://13.233.207.87/orders/orders.php?customer=17
 Category: Moderate
 1. Create an account
 2. Navigate to order section of the user
-3. Gain informatin of other user by Change the url parameter from "http://13.233.207.87/orders/orders.php?customer=17" to "http://13.233.207.87/orders/orders.php?customer=14".
+3. Gain information of another user by Change the URL parameter from "http://13.233.207.87/orders/orders.php?customer=17" to "http://13.233.207.87/orders/orders.php?customer=14".

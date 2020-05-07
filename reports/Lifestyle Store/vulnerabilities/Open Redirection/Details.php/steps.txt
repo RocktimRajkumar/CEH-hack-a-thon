@@ -1,6 +1,6 @@
-url: http://35.154.249.93/products/details.php?p_id=5
+URL: http://35.154.249.93/products/details.php?p_id=5
 category: Severe
 
-1. Select any item in product section
-2. Click on Brand Webiste and intercept the request in burp suite
-3. Change the redirect url and click on forward
+1. Select any item in the product section
+2. Click on Brand Website and intercept the request in burp suite
+3. Change the redirect URL and click on forward

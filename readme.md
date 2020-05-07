@@ -33,8 +33,8 @@
 - Module Test
 
 ### Advanced Web Application Attacks
-- Client Side Attacks
-- Bypassing Client Side Filters using Burp
+- Client-Side Attacks
+- Bypassing Client-Side Filters using Burp
 - Suite
 - IDOR and Rate-limiting issues
 - [Arbitrary File Upload Vulnerabilities](./modules/Advance-Web-Application-Attacks/Arbitary-FileUpload-Vulnerabilities/arbitary-file-upload-vulnerabilities.md)
@@ -42,9 +42,9 @@
 
 ### Client Side Attacks
 - Understanding Important Response Headers, DOM,and Event Listeners
-- Fundamentals of Cross Site Scripting (XSS)
+- Fundamentals of Cross-Site Scripting (XSS)
 - Understanding Forced Browsing and Session-Cookie Flaws
-- Cross Site Request Forgery (CSRF) and Open Redirections
+- Cross-Site Request Forgery (CSRF) and Open Redirections
 - Brute Force Attacks using Burp Suite
 - Personally Identifiable Information (PII) Leakage and Sensitive Information Disclosure
 - Module Test

@@ -1,9 +1,9 @@
-url: http://35.154.249.93/cart/cart.php
+URL: http://35.154.249.93/cart/cart.php
 category: Moderate
 
 1. Login with the customer username and password
 2. Add item to cart
-3. Click on apply coupon and intercept the request in burp suite
-4. Send the request to intruder and add the payload market to the 4 digit of the coupon code. i.e UL_$6266$
+3. Click on the apply coupon and intercept the request in burp suite
+4. Send the request to the intruder and add the payload market to the 4 digits of the coupon code. i.e UL_$6266$
 5. Click on payload and select payload type as number
 6. Set the number range from 100 to 999 and click on start attack

@@ -1,4 +1,4 @@
-url: http://35.154.249.93/profile/16/edit/
+URL: http://35.154.249.93/profile/16/edit/
 category: critical
 
 1. Login with the customer username and password

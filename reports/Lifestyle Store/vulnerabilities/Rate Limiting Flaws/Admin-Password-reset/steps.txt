@@ -1,7 +1,7 @@
 Url: http://13.233.207.87/reset_password/admin.php
 Category: Severe
 
-1. Navigate to the url http://13.233.207.87/reset_password/admin.php
+1. Navigate to the URL http://13.233.207.87/reset_password/admin.php
 2. Click on reset password
-3. Intercept the request using burpsuite and send the request to intruder.
+3. Intercept the request using burpsuite and send the request to the intruder.
 4. Try request with all possible combinations of 3 Digit.

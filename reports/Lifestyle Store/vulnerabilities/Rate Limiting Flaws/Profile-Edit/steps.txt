@@ -2,5 +2,5 @@ Url: http://13.233.207.87/profile/17/edit/
 Category: Severe
 
 1. Login with the username and password
-2. Navigate to profile section and click on edit profile and intercept the request using burp suite.
-3. Send the request to intruder from intercept and try all possible number from 1 to 100 by replacing "17" from the url
+2. Navigate to the profile section and click on the edit profile and intercept the request using a burp suite.
+3. Send the request to intruder from intercept and try all possible number from 1 to 100 by replacing "17" from the URL
