@@ -1,0 +1,5 @@
+URL: http://13.232.248.46/login/seller.php
+category: Severe
+
+1. Go to the login page of the seller account.
+2. Enter username as "Radhika" and password as "Radhika123"
