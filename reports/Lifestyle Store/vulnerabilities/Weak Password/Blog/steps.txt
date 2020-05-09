@@ -2,4 +2,4 @@ URL: http://13.232.248.46/wondercms/loginURL
 category: Severe
 
 1. Go to the login page of the Blog.
-2. Enter password as "admin"
+2. Enter the password as "admin"

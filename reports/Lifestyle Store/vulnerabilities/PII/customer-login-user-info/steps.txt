@@ -1,0 +1,5 @@
+URL: http://13.232.248.46/login/customer.php
+category: Moderate
+
+1. Go to the login page of the Customer.
+2. You can see Customer usernames are displayed publicly.
