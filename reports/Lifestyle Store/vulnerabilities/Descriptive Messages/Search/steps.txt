@@ -1,0 +1,6 @@
+URL: http://35.154.118.58/search/search.php
+category: Low
+
+1. Go to the product page and search for an item.
+2. Replace the search query with "'". ie. "http://13.232.248.46/search/search.php?q='"
+3. Descriptive Error Msg display

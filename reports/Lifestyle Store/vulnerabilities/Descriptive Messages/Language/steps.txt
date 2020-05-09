@@ -1,0 +1,6 @@
+URL: http://35.154.118.58/?includelang=lang/en.php
+category: Low
+
+1. In the homepage change the language.
+2. Replace 'en.php' to 'en1.php' in the url.
+3. Descriptive Error Msg display
