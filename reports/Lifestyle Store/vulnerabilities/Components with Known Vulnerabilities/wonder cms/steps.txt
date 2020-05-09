@@ -1,0 +1,18 @@
+URL: http://13.232.248.46/wondercms/loginURL
+category: Severe
+
+1. Go to the login page of the blog section
+2. Intercept the request in burpsuite
+3. Change the hostname to 'www.google.com'
+4. Click on proceed the page get redirected.
+
+
+CVE ID : CVE-2017-14523
+
+
+references: 
+
+https://www.cvedetails.com/cve/CVE-2017-14523/
+https://www.exploit-db.com/exploits/43964
+https://securitywarrior9.blogspot.in/2018/01/host-header-injection-in-wonder-cms.html
+
