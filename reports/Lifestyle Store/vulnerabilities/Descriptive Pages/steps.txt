@@ -1,0 +1,8 @@
+URL: http://35.154.118.58
+category: Low
+
+Add these paths to the url to get all the default page description.
+    1. robots.txt
+    3. sever-status
+    4. phpinfo.php
+    5. userlist.txt
