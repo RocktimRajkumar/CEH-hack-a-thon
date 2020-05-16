@@ -1,0 +1,7 @@
+Url : http://13.232.110.198/admin31/console.php
+category: Severe
+
+1. Login in as admin user
+2. Click on the console button
+3. We got the command line page where we can execute any command.
+4. Now the attacker enters into the admin account and finally to the console url,then he can put in any malicious code to extract or even edit data,as he has the admin privileges.
