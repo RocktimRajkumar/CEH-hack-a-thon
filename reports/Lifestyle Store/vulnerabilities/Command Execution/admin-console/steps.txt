@@ -1,5 +1,5 @@
 Url : http://13.232.110.198/admin31/console.php
-category: Severe
+category: Critical
 
 1. Login in as admin user
 2. Click on the console button
