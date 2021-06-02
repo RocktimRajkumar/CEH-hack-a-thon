@@ -1,4 +1,4 @@
-## Take this course for complete Vdo tutorial, hacking challenges and project from internshala. Follow this link [Ethical Hacking Course](https://trainings.internshala.com/?referral=ISRP2734003&utm_source=ISRP_share_link&utm_medium=ISRP2734003&utm_campaign=TRAINING)
+## Register to [Ethical Hacking Course](https://trainings.internshala.com//contest/hackathon/?referral=ISRP2734003&utm_source=ISRP_share_link&utm_medium=ISRP2734003&utm_campaign=TRAINING) for complete Vdo tutorial, hacking challenges and project.
 ## Table of Content
 ### Introduction to Information Security and Basics of Computer Networking
 
